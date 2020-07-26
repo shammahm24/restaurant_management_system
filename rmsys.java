@@ -22,7 +22,8 @@ import javax.swing.plaf.synth.Region;
 //main class
 public class rmsys{
 	public static void main(String[] args){
-	new Login();
+	//new Login();
+    new RMSystem();
 	}
 }
 
@@ -534,7 +535,8 @@ private PrintWriter pw2;
 	//method for controlling actions of all buttons
 	public void actionPerformed(ActionEvent e){
 	if(e.getSource()==ebtn){
-        new Login();
+       // new Login();
+        new RMSystem();
 	dispose();
 	}
 	if(e.getSource()==ubtn){
