@@ -6,15 +6,15 @@ Restaurant management system that includes:
   <li>Order processing</li>
  </ul>
   
- ##Status
+ ## Status
  Incomplete
  
- ##Run Commands
+ ## Run Commands
  javac rmsys.java
  
  java rmsys
  
- #Key Learnings
+ # Key Learnings
  <ul>
   <li>Java GUI elements</li>
   <li>Java classes</li>
